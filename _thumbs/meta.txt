@@ -34,4 +34,3 @@
 ./SOUL/posters/SOUL-poster-2.jpg|1080x1920|
 ./SOUL/videos/SOUL-video-1.mp4|1080x1920|00:00:10.63
 ./SOUL/videos/SOUL-video-2.mp4|1080x1920|00:00:08.00
-./THE-EIGHT/posters/LEROI-eight-poster.jpg|1080x1920|
